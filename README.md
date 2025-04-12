@@ -11,4 +11,4 @@ Jest to strona internetowa typu multi-page, zaprojektowana z myślą o prostym, 
 
     Kontakt – Formularz kontaktowy i dane kontaktowe
 
-[Link do strony:](https://norbianonymous.github.io/landing-page-one/)
+[Link do strony](https://norbianonymous.github.io/landing-page-one/)
